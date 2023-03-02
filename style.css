@@ -1,0 +1,145 @@
+.body{
+    background-color: #f8f8f8;
+  
+}
+
+
+#clk{
+/* margin: 20px; */
+/* width: 15px; */
+border-radius: 10px;
+border: 3px solid black; 
+padding: 20px;
+background-color: black;
+color: white
+
+}
+
+#image{
+    
+   float: right;
+   width: 110vh;
+   height: 90vh;
+   margin: -30% 20%;
+   margin-bottom: 3px 2px;
+   padding-top: 30px;
+   
+   
+}
+.nav{
+display: flex;
+justify-content: space-between;
+}
+nav ul li{
+    display: flex;
+justify-content: space-between;
+flex-direction: row; 
+display: inline-block; 
+margin-right: 200px ;
+padding-right: 30px;
+
+
+}
+#head{
+    text-align: center;
+}
+.box{
+    padding-left: 90px;
+    display: flex;
+    gap: 10%;
+
+
+}
+#box1{
+    width: 230px;
+}
+#box2{
+    width: 230px;
+}
+#box3{
+    width: 230px;
+
+}
+#box4{
+    width: 230px;
+}
+.dov{
+    display: flex;
+    gap: 30%;
+    /* justify-content: space-between; */
+    padding: 60px;
+}
+.pot{
+    display: flex;
+    padding-left:10% ;
+}
+#pot1{
+    width: 500px;
+}
+#pot2{
+    width: 600px;
+}
+#NB{
+    text-align: center;
+    
+}
+#info1{
+   text-align: center;
+}
+.info2{
+   text-align: center;
+    display: flex;
+    padding: 4%;
+    justify-content: space-around;
+   
+    
+}
+.low{
+    background-color: #212529;
+    color: white;
+
+}
+#box5{
+    width: 30%;
+}
+#box6{
+    width: 30%;
+}
+#box7{
+    width: 30%;
+}
+.slo{
+    gap: 15%;
+    justify-content: center;
+}
+.slow{
+    display: flex;
+    padding: 40px;
+    justify-content: space-between;
+    background-color: #212529;
+    color: white;
+}
+#box8{
+    margin-left: 40%;
+    width: 110vh;
+    height: 80vh;
+    display: flex;
+}
+.home{
+    background-color: #f8f8f8;
+}
+#but{
+    background-color: black;
+    color: #f8f8f8;
+    padding: 1%;
+    border-radius: 10px;
+    border-color: white;
+    
+   
+}
+
+
+  
+
+
+
